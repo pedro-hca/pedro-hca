@@ -24,7 +24,7 @@
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <h1 align="center">
-<a href="https://github.com/HozaniaB">
+<a href="https://github.com/pedro-hca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-hca&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-hca&theme=noctis_minimus&layout=compact" />
 </a>
