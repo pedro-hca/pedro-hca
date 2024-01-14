@@ -14,7 +14,7 @@
 <h5 align="center">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular" />
+    <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,aws,mysql,ts,cs,dotnet,angular" />
   </a>
 </p>
 <hr>
